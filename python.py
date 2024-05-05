@@ -135,3 +135,8 @@ print([] or 'be happy!')
 print(None or ())
 print({} or 0)
 print({0} or False)
+
+text = 'abcdef'
+print(text[0])
+print(text[1])
+print(text[5])
